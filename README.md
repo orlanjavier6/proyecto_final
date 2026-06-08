@@ -28,9 +28,6 @@ Debido al volumen y peso de los archivos de datos originales, estos han sido alo
 
 **[Descargar Datasets Originales (Google Drive)](https://drive.google.com/file/d/1OPITOw7VChkiga9UyGzuzuwP5mLC4ov2/view?usp=drive_link)**
 
-*Nota: Una vez descargado el archivo, asegúrate de colocar `bank-additional.csv` y `customer-details.xlsx` en la carpeta raíz del proyecto para que el Jupyter Notebook pueda cargarlos correctamente.*
-
----
 ---
 
 ## Herramientas y Tecnologías Utilizadas
