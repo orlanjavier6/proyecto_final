@@ -10,16 +10,11 @@ El análisis se centra en comprender el comportamiento de los clientes, optimiza
 El repositorio está organizado para facilitar la inspección del código y la ejecución del entorno:
 
 proyecto_final/
-
-├── DataProject_ Proyecto EDA con Python.docx   #Documento original con las directrices y enunciados
-
-├── README.md                                  #Descripción general del proyecto y documentación
-
-├── analisis_exploratorio.ipynb                #Jupyter Notebook principal con el pipeline de código ejecutado y limpio
-
-├── bank-additional.csv                        #Dataset original con los resultados de los contactos
-
-└── customer-details.xlsx                      #Dataset original con la información socioeconómica de los clientes
+├── 01_EDA_y_Limpieza.ipynb           #Jupyter Notebook principal con el pipeline de código ejecutado y limpio
+├── CLV_Fuente1_Transacciones.csv     #Dataset original: transacciones del cliente
+├── CLV_Fuente2_Perfiles_Clientes.csv #Dataset original: información de los perfiles de los clientes
+├── informe_analisis.pdf              #Documento técnico detallado del análisis con las conclusiones
+└── README.md                         #Descripción general del proyecto y documentación
 
 ---
 
