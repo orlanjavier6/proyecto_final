@@ -10,6 +10,7 @@ El análisis se centra en comprender el comportamiento de los clientes, optimiza
 El repositorio está organizado para facilitar la inspección del código y la ejecución del entorno:
 
 proyecto_final/
+
 ├── 01_EDA_y_Limpieza.ipynb           #Jupyter Notebook principal con el pipeline de código ejecutado y limpio
 
 ├── CLV_Fuente1_Transacciones.csv     #Dataset original: transacciones del cliente
