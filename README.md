@@ -38,7 +38,7 @@ Debido al volumen y peso de los archivos de datos originales, estos han sido alo
     - `numpy` para el soporte de operaciones matriciales y gestión de estructuras de datos nulos.
     - `matplotlib.pyplot` para la inicialización de lienzos dinámicos y optimización de gráficos.
     - `seaborn` para la construcción de gráficos estadísticos de alta densidad informativa.
-- **Excel:** Diseño de Dashboard operativo para visualización ejecutiva.
+- **Excel:** diseño de Dashboard operativo para visualización ejecutiva.
 
 ---
 
