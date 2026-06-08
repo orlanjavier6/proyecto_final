@@ -9,7 +9,7 @@ El análisis se centra en comprender el comportamiento de los clientes, optimiza
 ## Estructura del Proyecto
 El repositorio está organizado para facilitar la inspección del código y la ejecución del entorno:
 
-mi_proyecto_eda/
+proyecto_final/
 
 ├── DataProject_ Proyecto EDA con Python.docx   #Documento original con las directrices y enunciados
 
@@ -21,6 +21,16 @@ mi_proyecto_eda/
 
 └── customer-details.xlsx                      #Dataset original con la información socioeconómica de los clientes
 
+---
+
+## Acceso a los Datasets Originales
+Debido al volumen y peso de los archivos de datos originales, estos han sido alojados en una unidad externa para optimizar la gestión del repositorio. Puedes descargarlos desde el siguiente enlace:
+
+**[Descargar Datasets Originales (Google Drive)](https://drive.google.com/file/d/1OPITOw7VChkiga9UyGzuzuwP5mLC4ov2/view?usp=drive_link)**
+
+*Nota: Una vez descargado el archivo, asegúrate de colocar `bank-additional.csv` y `customer-details.xlsx` en la carpeta raíz del proyecto para que el Jupyter Notebook pueda cargarlos correctamente.*
+
+---
 ---
 
 ## Herramientas y Tecnologías Utilizadas
