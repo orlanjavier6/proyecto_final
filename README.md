@@ -11,9 +11,13 @@ El repositorio está organizado para facilitar la inspección del código y la e
 
 proyecto_final/
 ├── 01_EDA_y_Limpieza.ipynb           #Jupyter Notebook principal con el pipeline de código ejecutado y limpio
+
 ├── CLV_Fuente1_Transacciones.csv     #Dataset original: transacciones del cliente
+
 ├── CLV_Fuente2_Perfiles_Clientes.csv #Dataset original: información de los perfiles de los clientes
+
 ├── informe_analisis.pdf              #Documento técnico detallado del análisis con las conclusiones
+
 └── README.md                         #Descripción general del proyecto y documentación
 
 ---
