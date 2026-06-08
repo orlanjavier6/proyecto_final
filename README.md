@@ -43,14 +43,14 @@ Debido al volumen y peso de los archivos de datos originales, estos han sido alo
 ---
 
 ## Proceso Metodológico de Desarrollo
-1. **Ingeniería de Datos:** Unión de fuentes heterogéneas mediante `pd.merge()` sobre la clave `ID_Cliente` para consolidar un dataset único de trabajo.
-2. **Limpieza Robusta:** Conversión de tipos de datos (datetime, numeric), imputación de nulos y estandarización de variables monetarias para garantizar la calidad del análisis.
-3. **Análisis Exploratorio (EDA):** Evaluación profunda de distribuciones, identificación de *outliers* y análisis de correlación entre variables financieras y de comportamiento del cliente.
-4. **Storytelling de Negocio:** Transformación de insights técnicos en recomendaciones estratégicas para la mejora de la retención y la conversión comercial.
+1. **Ingeniería de Datos:** unión de fuentes heterogéneas mediante `pd.merge()` sobre la clave `ID_Cliente` para consolidar un dataset único de trabajo.
+2. **Limpieza Robusta:** conversión de tipos de datos (datetime, numeric), imputación de nulos y estandarización de variables monetarias para garantizar la calidad del análisis.
+3. **Análisis Exploratorio (EDA):** evaluación profunda de distribuciones, identificación de *outliers* y análisis de correlación entre variables financieras y de comportamiento del cliente.
+4. **Storytelling de Negocio:** transformación de insights técnicos en recomendaciones estratégicas para la mejora de la retención y la conversión comercial.
 
 ***
 
-**Nota sobre el proyecto:** Dado que este es un proceso de aprendizaje orientado a consolidar la ingeniería de datos y el análisis exploratorio, se utilizó apoyo de una IA para depurar conflictos de entorno de ejecución, optimizar la sintaxis de los bucles de limpieza y estructurar de forma clara el flujo lógico del cuaderno. Esto garantizó la entrega de código limpio, idiomático (*Pythonic*) y eficiente.
+**Nota sobre el proyecto:** dado que este es un proceso de aprendizaje orientado a consolidar la ingeniería de datos y el análisis exploratorio, se utilizó apoyo de una IA para depurar conflictos de entorno de ejecución, optimizar la sintaxis de los bucles de limpieza y estructurar de forma clara el flujo lógico del cuaderno. Esto garantizó la entrega de código limpio, idiomático (*Pythonic*) y eficiente.
 
 ***
 
